@@ -1,4 +1,6 @@
-# GopherGfx App Template
+# Lecture 2: Anatomy of a Graphics Program
+
+The latest commit will be the finished code at the end of class.  If you are intending to implement this program while watching the lecture video, you should checkout the commit labeled `pre-class commit`  to get the starter code.
 
 ## Prerequisites
 
@@ -15,6 +17,16 @@ I also recommend you install the following useful VS Code extensions:
 - [GopherGfx Source Code](https://github.com/illusioneering/GopherGfx)
 - [GopherGfx Documentation](https://illusioneering.github.io/GopherGfx/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+
+## Topics
+
+- Installation and setup
+- Checking out code from GitHub
+- Structure of a graphics program
+- Introduction to TypeScript
+- Drawing basic shapes with GopherGfx
+- Event handlers
+- Debugging errors
 
 ## Running
 
