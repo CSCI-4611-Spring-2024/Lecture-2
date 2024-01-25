@@ -13,21 +13,6 @@ I also recommend you install the following useful VS Code extensions:
 - [JavaScript Debugger](https://marketplace.visualstudio.com/items?itemName=ms-vscode.js-debug-nightly) (essential for real-time debugging)
 - [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (used for programming shaders later in the course)
 
-## GopherGfx Key Links
-- [GopherGfx Source Code](https://github.com/illusioneering/GopherGfx)
-- [GopherGfx Documentation](https://illusioneering.github.io/GopherGfx/)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-
-## Topics
-
-- Installation and setup
-- Checking out code from GitHub
-- Structure of a graphics program
-- Introduction to TypeScript
-- Drawing basic shapes with GopherGfx
-- Event handlers
-- Debugging errors
-
 ## Running
 
 You will need to set up the initial project by pulling the dependencies from the node package manager with:
@@ -43,6 +28,22 @@ npm run start
 ```
 
 Your program should open in a web browser automatically.  If not, you can run it by pointing your browser at `http://localhost:8080`.
+
+## Lecture Topics
+
+- Installation and setup
+- Checking out code from GitHub
+- Structure of a graphics program
+- Introduction to TypeScript
+- Drawing basic shapes with GopherGfx
+- Event handlers
+- Debugging errors
+
+## Helpful Resources
+
+- [GopherGfx Source Code](https://github.com/illusioneering/GopherGfx)
+- [GopherGfx Documentation](https://illusioneering.github.io/GopherGfx/)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 
 ## License
 
